@@ -1,13 +1,3 @@
-def inc(x):
-    # User code goes here
-    return x + 1
+# This is an example of a comment that Python ignores. Use these to make notes as you write your code. You will also fill out the top comment with any help or resources you use.
+# Collaborators:               (fill this is on every assignment, even if the answer is "none")
 
-
-if __name__ == '__main__':
-    # Test your code with this first
-    # Change the argument to try different values
-    print(inc(6))
-
-    # After you are satisfied with your results, use input() to prompt the user for a value:
-    #v = input("Value to increment: ")
-    #print(inc(int(v)))
